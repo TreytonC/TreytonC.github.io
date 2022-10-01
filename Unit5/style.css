@@ -1,0 +1,70 @@
+html,
+body {
+  background-color: black;
+  height: 100%;
+  width: 100%;
+}
+h1, h2, h3 {
+    text-align: center;
+}
+#wrapper {
+  width: 80%;
+  margin: auto;
+  background-color: gray;
+  box-shadow: 7px 7px 23px 3px blue;
+}
+div{
+  width: 90%;
+  margin: auto;
+}
+.itembox {
+  border: 5px double red;
+  border-radius: 10px;
+  box-shadow: 3px 3px 12px 2px lightgray;
+  background-color: purple;
+  color: white;
+  padding: 5px 10px;
+}
+.favorite {
+  border: 5px dotted gray;
+  border-radius: 3px;
+  box-shadow: 3px 3px 12px 2px green;
+  background-color: cyan;
+  color: black;
+  padding: 5px 10px;
+}
+ol {
+  background-color: yellow;
+  border-radius: 5px;
+  padding: 20px
+}
+ol li {
+  list-style-type:square;
+  background-color: pink;
+  color: darkred;
+  padding: 5px;
+  margin-left: 35px;
+}
+ul#help {
+  border-radius: 3px;
+  list-style-type: decimal;
+  background-color: azure;
+  margin: 10px;
+  padding: 10px;
+  overflow: hidden;
+}
+ul#help li{
+  float: left;
+}
+  
+ul#help li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+ul#help li a:hover:not(.active) {
+  background-color: darkorange
+}
+  
