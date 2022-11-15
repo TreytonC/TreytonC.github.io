@@ -1,0 +1,81 @@
+<mxfile host="app.diagrams.net" modified="2022-11-05T23:30:06.996Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="krwkdC6HprSQeT4m-8FR" version="20.5.2" type="github">
+  <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="He2la5rPhSFo1HgDWq67-56" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="2" target="8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="772" y="290" />
+              <mxPoint x="430" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2" value="Fox News&#xa;Homepage" style="rounded=1;fillColor=#007FFF;strokeColor=#FF3333;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="672" y="205.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Media" style="rounded=1;fillColor=#007FFF;strokeColor=#FF3333;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="662" y="345.5" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="He2la5rPhSFo1HgDWq67-58" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="4" target="5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="He2la5rPhSFo1HgDWq67-59" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="4" target="9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Tv" style="rounded=1;fillColor=#007FFF;strokeColor=#FF3333;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="330" y="455.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Business&#xa;Tonight" style="rounded=1;fillColor=#007FFF;strokeColor=#FF3333;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="190" y="570" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Watch&#xa;Live" style="rounded=1;fillColor=#007FFF;strokeColor=#FF3333;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="892" y="480" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="He2la5rPhSFo1HgDWq67-60" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="7" target="6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="He2la5rPhSFo1HgDWq67-61" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="7" target="23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Weather" style="rounded=1;fillColor=#007FFF;strokeColor=#FF3333;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="1010" y="345.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="He2la5rPhSFo1HgDWq67-57" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;" edge="1" parent="1" source="8" target="4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="Business" style="rounded=1;fillColor=#007FFF;strokeColor=#FF3333;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="330" y="340" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="Evening&#xa;Edit" style="rounded=1;fillColor=#007FFF;strokeColor=#FF3333;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="440" y="570" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="18" value="Illinois" style="rounded=1;fillColor=#007FFF;strokeColor=#FF3333;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="1150" y="590.25" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="He2la5rPhSFo1HgDWq67-62" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;" edge="1" parent="1" source="23" target="18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="23" value="Weather&#xa;News" style="rounded=1;fillColor=#007FFF;strokeColor=#FF3333;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="1150" y="480" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="29" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" parent="1" source="2" target="3" edge="1">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="22" y="265.5" as="sourcePoint" />
+            <mxPoint x="122" y="165.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="33" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" parent="1" source="2" target="7" edge="1">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="22" y="265.5" as="sourcePoint" />
+            <mxPoint x="122" y="165.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1062" y="295.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
