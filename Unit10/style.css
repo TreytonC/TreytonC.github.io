@@ -1,0 +1,19 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+.movie {
+  background-color: blue;
+  color: white;
+}
+.sonic {
+  background-color: red;
+  color: white;
+}
+.style {
+  border: 5px solid black;
+    border-collapse: collapse;
+}
+.center {
+  text-align: center;
+}
